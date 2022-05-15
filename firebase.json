@@ -10,6 +10,7 @@
     "source": "functions"
   },
   "hosting": {
+    "site": "arkvisionenterprises",
     "public": "public",
     "ignore": [
       "firebase.json",
